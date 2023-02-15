@@ -6,9 +6,9 @@ func main() {
 
 	var names [3]string
 
-	names[0] = "Eko"
-	names[1] = "Kurniawan"
-	names[2] = "Khannedy"
+	names[0] = "Roni"
+	names[1] = "Andarsyah"
+	names[2] = "Belajar"
 
 	fmt.Println(names[0])
 	fmt.Println(names[1])
